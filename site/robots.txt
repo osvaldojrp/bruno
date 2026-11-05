@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://uncut-me-autobiography.netlify.app/sitemap.xml
