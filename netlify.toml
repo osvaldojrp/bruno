@@ -1,3 +1,4 @@
 [build]
+  # Keep the repository root as the build base, overriding any stale Netlify UI setting.
+  base = "."
   publish = "site"
-
